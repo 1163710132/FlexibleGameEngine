@@ -1,0 +1,14 @@
+//
+// Created by chenjs on 1/13/20.
+//
+
+#ifndef FLEXIBLEGAMEENGINE_RESOURCESYSTEM_H
+#define FLEXIBLEGAMEENGINE_RESOURCESYSTEM_H
+
+
+class ResourceSystem {
+
+};
+
+
+#endif //FLEXIBLEGAMEENGINE_RESOURCESYSTEM_H
